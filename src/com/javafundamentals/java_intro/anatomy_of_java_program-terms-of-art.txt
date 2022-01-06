@@ -1,0 +1,74 @@
+                                TERMS OF ART "JAVA"
+                               Anatomy Of Java Program:
+
+-- Java was developed by James Gosling in 1995
+   - We have 4 Java Editions: Standard "Edition SE", Enterprise "Edition EE", Micro "Edition ME", and Java Card
+   - Standard Edition Java Core Platform contains all the Java libraries
+   - Enterprise Edition used for building very large scale "built on top of Java Standard"
+   - Micro Edition which is a subset of java standard Edition "designed for mobile devices"
+   - Java Card which is used in smart cards
+
+-- JVM - Java Virtual Machine
+
+-- class: is a Container for a related functions "methods"
+-- functions "methods": The Smallest building block of code that performs a task.
+-- method: is a function that is part of a class
+
+Example of Basic structure of a Java Program
+
+class Main() {
+  public void main() {
+    // statement "Java Code"
+  }
+}
+
+-- class Main(): We use the PascalNamingConvention "first letter of every word should be uppercase
+-- main() function "methods" always belong to a class
+-- public void main(): We use the camelNamingConvention main()"Every letter of each word should be uppercase except the first word
+
+Example of a main function "methods"?
+
+public void main() {
+  // statement "Java Code"
+}
+
+-- main() function "methods" is the entry point to our program. When we execute a Java program the main function gets called "everything inside function get executed"
+-- main() function "methods" always belong to a class "class is a Container for a related functions "methods"
+-- void: function "methods" that return no value "no data"
+-- void: is a java reserved keyword
+-- public: is a java reserved keyword "which declares a member's access as public."
+-- public void main(): We use the camelNamingConvention main()"Every letter of each word should be uppercase except the first word
+-- Pair of Parenthesis () Inside the parenthesis we can have parameter to pass values to our function "methods"
+-- After our Parenthesis we have a Pair of Curly Braces {}: inside our Curly braces we can write our Java Code
+
+--------------------------------------------------------------
+
+Example of a function "methods" with return value?
+
+public returntype name() {
+   // statement "Java Code"
+}
+
+-- return-type: function "methods" that return a value "data"
+-- name(): is a name of our function "methods"
+-- public: is a java reserved keyword "which declares a member's access as public."
+-- returntype name(): We use the camelNamingConvention name()"Every letter of each word should be uppercase except the first word
+-- Pair of Parenthesis () Inside the parenthesis we can have our parameter to pass values to our function "methods"
+-- After our Parenthesis we have a Pair of Curly Braces: inside our Curly braces we can write our Java Code
+
+--------------------------------------------------------------
+
+Example of a function "methods" without a return value?
+
+public void name() {
+  // statement "Java Code"
+}
+
+-- public void name(): function "methods" that return no value "no data"
+-- void: is a java reserved keyword
+-- public: is a java reserved keyword "which declares a member's access as public."
+-- public void name(): We use the camelNamingConvention name()"Every letter of each word should be uppercase except the first word
+-- Pair of Parenthesis () Inside the parenthesis we can have our parameter to pass values to our function "methods"
+-- After our Parenthesis we have a Pair of Curly Braces: inside our Curly braces we can write our Java Code
+
+--------------------------------------------------------------
