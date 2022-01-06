@@ -1,0 +1,44 @@
+                                TERMS OF ART "JAVA"
+-- How to write and execute FirstJavaProgram.java using IntelliJ IDEA
+
+Download IntelliJ IDEA:
+https://www.jetbrains.com/idea/download/#section=windows
+- Select your Operate System and click the download for Community Edition
+- Open the IntelliJ IDEA after finish downloading
+- Click Next "Welcome to intelliJ IDEA Community Edition Setup"
+- Click Next
+- Click Next in "Choose To install Location" or you can choose your destination folder
+- Click Next in "Installation Options" leave as default
+- Click Install in "Choose Start Folder" leave as default "JetBrains"
+
+--------------------------------------------------------------
+
+IntelliJ IDEA / Create a New Project:
+- Open your IntelliJ IDEA
+- Click on Create New Project
+- On New Project Screen:
+  - On your left of the screen select Java
+  - On your right Select your Project SDK "java Version" I'm using JDK version 17
+    "JDK" means Java Development Kit
+- Click Next
+- Select Create project from template
+- Click Next
+- In New Project Screen:
+  - In Project name: Give your project a name "I call mine JavaFundamentals" you can call yours whatever you want
+  - In Project location: Make sure on your project location you have the name of your project name -> mine is "/JavaFundamentals"
+  - In Base package: You can leave as default, or you can rename -> mine is "com.javafundamentals" you can name yours whatever you want
+- Click Finish
+
+--------------------------------------------------------------
+
+-- class: is a Container for a related functions "methods"
+-- functions "methods": The Smallest building block of code that performs a task.
+-- method: is a function that is part of a class
+
+Example of Basic structure of a Java Program:
+
+public class Main() {
+  public static void main(String[] args) {
+    // statement "Java Code"
+  }
+}
