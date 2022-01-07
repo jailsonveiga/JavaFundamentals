@@ -7,7 +7,7 @@ public class Variables {
 
         int temperature = 20, day = 3;
 
-        int intNum = 55;
+        int intNum = 58;
         int num = intNum;
 
         System.out.println(age);
