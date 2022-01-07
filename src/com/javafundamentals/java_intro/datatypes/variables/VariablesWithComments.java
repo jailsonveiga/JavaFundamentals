@@ -10,8 +10,8 @@ public class VariablesWithComments {
         int temperature = 20, day = 3; // 2 variable with the same data type "int"
 
         //How to copy one variable into another variable
-        int intNum = 55; // "intNum" is a camelCaseNamingConvention "Every letter of each word should be uppercase except the first word"
-        int num = intNum; // Copy the value of variable "intNum" "55" and assign into the variable "num"
+        int intNum = 58; // "intNum" is a camelCaseNamingConvention "Every letter of each word should be uppercase except the first word"
+        int num = intNum; // Copy the value of variable "intNum" "58" and assign into the variable "num"
 
         System.out.println(age); //print out the value of age "30" to the terminal
         System.out.println(temperature);//print out the value of temperature "20" to the terminal
