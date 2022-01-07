@@ -1,4 +1,4 @@
-package com.javafundamentals.java_intro.datatypes;
+package com.javafundamentals.java_intro.datatypes.variables;
 
 public class VariablesWithComments {
     public static void main(String[] args) {
