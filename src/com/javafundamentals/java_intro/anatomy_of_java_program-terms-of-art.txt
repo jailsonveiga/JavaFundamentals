@@ -67,7 +67,7 @@ public void name() {
 -- public void name(): function "methods" that return no value "no data"
 -- void: is a java reserved keyword
 -- public: is a java reserved keyword "which declares a member's access as public."
--- public void name(): We use the camelNamingConvention name()"Every letter of each word should be uppercase except the first word
+-- public void name(): We use the camelCaseNamingConvention name()"Every letter of each word should be uppercase except the first word
 -- Pair of Parenthesis () Inside the parenthesis we can have our parameter to pass values to our function "methods"
 -- After our Parenthesis we have a Pair of Curly Braces: inside our Curly braces we can write our Java Code
 
