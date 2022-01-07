@@ -1,0 +1,20 @@
+                              TERMS OF ART "JAVA"
+                          Variables in Java Program:
+
+-- Variables: In Java we use variables to temporarily store data in computer's memory.
+
+-- There are three types of variables in Java:
+   - local variable "variable declared inside the body of the method"
+   - instance variable "variable inside the class but outside the body of the method"
+   - static variable "variable declared as a static"
+
+Example:
+-- Initializing
+
+DataType - identifier - assignment operator - value
+  int         age                 =            30;     "30 initial value"
+
+-- int datatype: Can only store integers "int datatype" which are whole numbers.
+-- We are storing value of number 30 somewhere in a computer's memory
+-- We are Assigning the identifier "label" to that memory location
+
