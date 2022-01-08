@@ -13,7 +13,7 @@ public class PrimitiveDataTypes {
 
         char strText = 'S';
 
-        boolean isItTrue = true;
+        boolean isItTrue = true;clear
 
         System.out.println("byte data type: " + age);
         System.out.println("Integer data type: " + likesCount);
