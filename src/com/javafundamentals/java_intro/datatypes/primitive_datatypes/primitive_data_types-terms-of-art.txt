@@ -1,0 +1,43 @@
+                                       TERMS OF ART "JAVA"
+                                 Primitive Types In Java Program
+
+--Primitive Types: Storing simple values "building blocks of data manipulation"
+Examples:
+  -The more bytes we have the larger numbers we can store
+
+  -- Storing Whole Numbers --
+Type         Bytes          Range
+byte           1          -128, 127
+short          2          -32k, 32k
+int            4          -2b, 2b
+long           8
+
+  -- Storing Decimal Numbers --
+float          4
+double         8
+
+  -- Storing Single Character --
+char           2            A,B,C,
+
+  -- Storing Boolean "true or false" --
+boolean        1            true / false
+
+--byte data type: "default byte - 0" Is used to save memory in large arrays where the memory savings is most required.
+                  - bytes is 4 times smaller than an integer
+                  - Also can be used in place of "int" data type
+
+--short data type: "default byte - 0" Can also be used to save memory just like byte data type
+                  - Is 2 times smaller than an integer
+
+--int data type: "default byte - 0" Also is generally used as a default data type for integral values
+
+--long data type: "default byte - 0" The long data type is used when you need a range of values more than those provided by int
+
+--float data type: "default value is 0.0F"  Recommend to use float instead double data type if you need to save memory in large arrays of floating point number
+
+--double data type: "default value is 0.0D" value range is unlimited
+
+--char data type: Is used to store characters
+
+--boolean data type: is used for simple track conditions of true or false
+
