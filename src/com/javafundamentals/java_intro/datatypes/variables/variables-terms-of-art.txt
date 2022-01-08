@@ -1,8 +1,8 @@
                               TERMS OF ART "JAVA"
                           Variables in Java Program:
 
+-- Java: Is a statically-typed programing language. All variables must be declared before its use
 -- Variables: In Java we use variables to temporarily store data in computer's memory.
-
 -- There are three types of variables in Java:
    - local variable - "variable declared inside the body of the method"
    - instance variable - "variable inside the class but outside the body of the method"
