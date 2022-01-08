@@ -24,7 +24,7 @@ class Main() {
 
 -- class Main(): We use the PascalNamingConvention "first letter of every word should be uppercase
 -- main() function "methods" always belong to a class
--- public void main(): We use the camelNamingConvention main()"Every letter of each word should be uppercase except the first word
+-- public void main(): We use the camelCaseNamingConvention main()"Every letter of each word should be uppercase except the first word
 
 Example of a main function "methods"?
 
