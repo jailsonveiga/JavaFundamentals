@@ -1,0 +1,12 @@
+                                  TERMS OF ART "JAVA"
+                               Reference Data Type in Java Program:
+
+--All reference types are a subclass of type java.lang.Object it provides access to the objects stored in the memory
+--Reference Type: For Storing complex objects
+
+--Reference Data Types:
+  -class: Is a set of instructions "describes the content of the object"
+  -array: In java array provides the fixed-size data structure that stores the element of the same type
+  -annotations: It provides a way to associate metadata with program elements
+  -interface: It is implemented by java classes
+  -enumeration: It is a special kind of class is type-safe "each element inside enumeration is an instance of that enumeration"
