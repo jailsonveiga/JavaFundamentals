@@ -1,0 +1,16 @@
+                                     TERMS OF ART "JAVA"
+                               Escape Sequences in Java Program
+
+--Escape Sequences: Has a special meaning to the compiler
+
+Example of escape sequences:
+--String message = "Hello \"World\"";
+
+--\t: Inserts a tab in the text
+--\b: Inserts a backspace in the text
+--\n: Inserts a newline in the text
+--\r: Inserts a carriage return to the text
+--\f: Inserts a form feed in the text
+--\': Inserts a quote character in the text
+--\": Inserts a double quote in the text
+--\\" Inserts a backslash character in the text
