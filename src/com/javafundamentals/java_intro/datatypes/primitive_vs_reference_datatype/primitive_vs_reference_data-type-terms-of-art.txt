@@ -1,0 +1,48 @@
+                                         TERMS OF ART "JAVA"
+                            Primitive Vs Reference Data Type in Java Program:
+
+--Primitive Data Type: For storing simple values
+--Reference Data Type: For storing complex objects
+--Reference types are copied by the references whereas primitive types are copied by their value
+  --these values are completely independent of each other
+
+example of primitive data type:
+
+byte x = 1;
+byte y = x;
+
+-- we are assigning value of 1 into variable x
+-- we are assigning value of variable x into variable y
+-- variable x and variable y is complete different from each other
+-- variable x and variable y is stored in different memory location
+-- if we change value of x, y is not going to get affected
+
+x = 2;
+
+-- changing the initial value of x (1) to value of 2
+
+System.out.println(y);
+
+-- output (y)
+   -- 1
+
+//Example of Reference Data Type:
+
+--Point point1 = new Point(x:1, y:1);
+  --inside the point parenthesis we can pass initial values for x and y
+
+--Point point2 = point1;
+  --we are copying the value of variable point1 into variable point2
+
+--this two variable (point1 and point2) are not independent of each other
+--they are referencing the same object
+--if I change the value of any of these variables (point1 or point2) changes will be visible to the other variable
+
+point.x = 2;
+
+--we use the (.) operator to see the members of this object (x, y)
+
+System.out.println(point2);
+
+--print out the value of the variable point2  output -> (2) to the terminal
+
