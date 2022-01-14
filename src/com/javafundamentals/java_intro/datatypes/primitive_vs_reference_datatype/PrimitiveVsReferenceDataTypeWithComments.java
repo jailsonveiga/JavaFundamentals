@@ -14,6 +14,9 @@ public class PrimitiveVsReferenceDataTypeWithComments {
         System.out.println(y); // print out -> 1 to the terminal
         System.out.println(x); // print out -> 2 to the terminal
 
+        //primitive types are copied by their value
+        //these values are completely independent of each other
+
         System.out.println("---------------------------");
 
         //Reference Data Type
@@ -25,5 +28,8 @@ public class PrimitiveVsReferenceDataTypeWithComments {
                                             // we are assigning a value os 2 into a variable (x) from is initial value
 
         System.out.println(point2); // print out the value of variable point2 to the terminal
+        System.out.println(point1); // print out the value of variable point2 to the terminal
+
+        //Reference types are copied by the references
     }
 }
