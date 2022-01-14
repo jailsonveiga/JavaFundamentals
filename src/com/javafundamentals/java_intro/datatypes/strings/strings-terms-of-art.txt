@@ -1,0 +1,18 @@
+                                  TERMS OF ART "JAVA"
+                               Strings in Java Program:
+
+
+--String: is a class we can use is members using the dot operator
+
+System.out.println("Hello World")
+      -- printing the hello World message on a terminal
+      -- "Hello World" ias a string "String Literal"
+
+Example of string concatenating or join them together:
+
+String message = "Hello";
+String message1 = "World"'
+String messageFullName = message + message1;
+
+-- (+) means we are concatenating message and message1 together and store the value inside messageFullName
+System.out.println(messageFullName);
