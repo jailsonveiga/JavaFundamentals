@@ -1,0 +1,15 @@
+                              TERMS OF ART "JAVA"
+                            Arrays in Java Program:
+
+--Arrays: We use arrays to store a list of items
+  --like a list of numbers
+  --list of people
+  --list of messages
+--Array refer to a reference type "stores complex objects"
+
+Types of Array in Java:
+--Single dimensional array
+--Multidimensional array
+
+Instantiate of an Array in Java:
+--arrayRefVar = new datatype[size];
