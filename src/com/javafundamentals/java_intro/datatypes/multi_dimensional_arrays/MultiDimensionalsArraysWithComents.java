@@ -14,6 +14,6 @@ public class MultiDimensionalsArraysWithComents {
 
         int [][] numArrays1 = {{1, 2, 3}, {4, 5, 6}}; // 2 dimensional arrays using curly braces
 
-        System.out.println(Arrays.deepToString(numArrays1));
+        System.out.println(Arrays.deepToString(numArrays1)); //deepToString - to print multidimensional arrays
     }
 }
